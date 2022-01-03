@@ -1,4 +1,5 @@
 <h1> Luciana Monte Souza 👋 </h1>
+
 - 🌱 I’m currently learning HTML/CSS
 - 📫 How to reach me: br.linkedin.com/in/luciana-monte-souza-024685226
 - 😄 Pronouns: she/her
