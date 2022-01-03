@@ -1,9 +1,10 @@
-<h1> Luciana Monte Souza </h1>
+## Luciana Monte Souza 
   <img alt="luci-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202201/328006_taGh0Nnw.png">
-
+  
 - 🌱 I’m currently learning HTML/CSS
 - 📫 How to reach me: br.linkedin.com/in/luciana-monte-souza-024685226
 - 😄 Pronouns: she/her
+##
 <div align="center">
   <a href="https://github.com/lumontexx">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lumontexx&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
