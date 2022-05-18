@@ -1,6 +1,4 @@
 ## Welcome! / Bem vindx!
-  <img  align="center" alt="luci-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202201/328006_taGh0Nnw.png">
-  
 - 🌱 I’m currently learning HTML/CSS/JavaScript
 - 😄 Pronouns: she/her
 ##
